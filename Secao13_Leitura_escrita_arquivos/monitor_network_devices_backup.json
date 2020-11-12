@@ -1,0 +1,33 @@
+{
+    "max_time": 25,
+    "directories": [
+        {
+            "path_name": "/usr/local/scripts/bkp/ciscoasabnc",
+            "file_name": "runnung-config_"
+        },
+        {
+            "path_name": "/usr/local/scripts/bkp/ciscoasadc",
+            "file_name": "runnung-config_"
+        },
+        {
+            "path_name": "/usr/local/scripts/bkp/fgt600Edc",
+            "file_name": "conf_fgt600E_"
+        },
+        {
+            "path_name": "/usr/local/scripts/bkp/swcorebnc",
+            "file_name": "startup-config_"
+        },
+        {
+            "path_name": "/usr/local/scripts/bkp/swcoredc",
+            "file_name": "startup-config_"
+        },
+        {
+            "path_name": "/usr/local/scripts/bkp/swdistbncA",
+            "file_name": "startup-config_"
+        },
+        {
+            "path_name": "/usr/local/scripts/bkp/swdistbncB",
+            "file_name": "startup-config_"
+        }
+    ]
+}
