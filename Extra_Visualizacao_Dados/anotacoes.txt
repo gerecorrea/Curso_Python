@@ -1,0 +1,9 @@
+Por padrão, o Matplotlib já vem instalado, mas caso ocorram problemas (fiz a instalação de qlqr forma):
+$ pip install matplotlib
+
+Para este curso se recomenda conhecimentos em lógica, python e html (tudo certo)
+
+Para execução, no meu pc, utilizei do meu Python 3.7 (3.7.4)
+
+Execução padrão (no meu pc):
+python3.7 nomearquivo.py
